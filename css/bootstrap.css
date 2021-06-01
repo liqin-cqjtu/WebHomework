@@ -47,7 +47,13 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+.tt1 {
+  border: 1px solid grey;
+  
+  border-bottom: white;
 
+  border-radius: 15px;
+}
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
